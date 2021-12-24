@@ -1,0 +1,46 @@
+.color-navar{
+    background-color: #e3f2fd;
+}
+
+.left-side {
+    width: 50%;
+    margin-top: 10px;
+    float: left;
+}
+
+.imageHome{
+    width: 650px;
+    height: 650px;
+}
+
+.right-side{
+    float: right;
+    width: 50%;
+    height: 100%;
+    align-items: center;
+    justify-content: center;
+    margin-top: 270px;
+}
+
+.display-sentences{
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+    align-items: center;
+    justify-content: center;
+    margin-left: 140px;
+}
+
+.btn-position{
+    margin-left: 320px;
+}
+
+.btn-upload{
+    margin-top: 100px;
+    margin-left: 680px;
+    justify-content: center;
+}
+
+.btn-detect{
+    margin-top: 20px;
+    margin-left: 720px;
+}
