@@ -16,13 +16,13 @@ Build model CNN
 Simpan model machine learning ke dalam format file *.h5
 Deploy model machine learning ke Framework Flask & Build Website
 ### How to Use this Application? <br />
-Kunjungi situs https://chestcov.pw
+Kunjungi situs https://predictioncataract.herokuapp.com/
 Pilih Home
 Siapkan data image mata yang akan diperiksa
 Unggah data pada kolom unggah lalu klik submit
 Sistem akan memberikan hasil prediksi kondisi mata apakah mata normal atau cataract
 ### Link <br />
 * Dataset : https://drive.google.com/drive/folders/1S1-ED3EbNKB5O6GmLTxpNiTl8rQIaQiE?usp=sharing
-* Link Deploy Website : https://chestcov.pw
-* Link Video Presentasi : https://www.youtube.com/watch?v=js8rnvAtTmI
+* Link Deploy Website : https://predictioncataract.herokuapp.com/
+* Link Video Presentasi : https://drive.google.com/drive/folders/1GRTFCuhSvRGXjqAhY_9xYeFqBNTbhz2B?usp=sharing
 * Link Video Demo Website :
