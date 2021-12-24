@@ -24,6 +24,6 @@ Sistem akan memberikan hasil prediksi kondisi mata apakah mata normal atau catar
 ### Link <br />
 Dataset :
 https://drive.google.com/drive/folders/1S1-ED3EbNKB5O6GmLTxpNiTl8rQIaQiE?usp=sharing
-Link Deploy Website : https://chestcov.pw
-Link Video Presentasi : https://www.youtube.com/watch?v=js8rnvAtTmI
-Link Video Demo Website :
+* Link Deploy Website : https://chestcov.pw
+* Link Video Presentasi : https://www.youtube.com/watch?v=js8rnvAtTmI
+* Link Video Demo Website :
