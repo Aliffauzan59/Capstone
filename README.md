@@ -18,18 +18,12 @@ Deploy model machine learning ke Framework Flask & Build Website
 How to Use this Application?
 Kunjungi situs https://chestcov.pw
 Pilih Home
-Siapkan data image Chest X-Ray
+Siapkan data image mata yang akan diperiksa
 Unggah data pada kolom unggah lalu klik submit
-Sistem akan memberikan hasil prediksi kondisi paru-paru, dalam keadaan normal atau terinfeksi covid/tidak sehat
-Hasil prediksi dengan nilai mendekati angka 1, maka menunjukkan kondisi paru-paru pasien Normal. Sedangkan hasil prediksi dengan nilai mendekati angka 0, maka menunjukkan kondisi paru-paru pasien terinfeksi Covid/tidak sehat
-Menu Covid News : berisikan tentang Info Persebaran Covid di Indonesia, Info Persebaran Covid di dunia, berita Covid secara real time, serta chart perkembangan Covid di Indonesia untuk setiap provinsi
-Menu About : berisikan deskripsi dari website ChestCov dan profile dari developer
-Menu Contact : user dapat menggunakan menu ini untuk menghubungi developer dengan menginputkan data pada form
-Select Language : user dapat memilih bahasa yang ingin digunakan pada website
+Sistem akan memberikan hasil prediksi kondisi mata apakah mata normal atau cataract
 Link
 Dataset :
-https://www.kaggle.com/tawsifurrahman/covid19-radiography-database
-https://www.kaggle.com/praveengovi/coronahack-chest-xraydataset
+https://drive.google.com/drive/folders/1S1-ED3EbNKB5O6GmLTxpNiTl8rQIaQiE?usp=sharing
 Link Deploy Website : https://chestcov.pw
 Link Video Presentasi : https://www.youtube.com/watch?v=js8rnvAtTmI
 Link Video Demo Website :
